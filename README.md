@@ -4,9 +4,7 @@
 [![GitHub star chart](https://img.shields.io/github/stars/coinbase/cdp-agentkit?style=flat-square)](https://star-history.com/#coinbase/cdp-agentkit)
 [![Open Issues](https://img.shields.io/github/issues-raw/coinbase/cdp-agentkit?style=flat-square)](https://github.com/coinbase/cdp-agentkit/issues)
 
-The Coinbase Developer Platform (CDP) Agentkit simplifies bringing your AI Agents onchain. Every AI Agent deserves a crypto wallet!
-
-## Key Features
+The Coinbase Developer Platform (CDP) Agentkit simplifies bringing your AI Agents onchain. Every AI Agent deserves a crypto wal git@github.com:EitchEss/metamask-extension.git # Key Features
 - Framework-agnostic: Common AI Agent primitives that can be used with any AI framework.
 - Langchain Toolkit: Integration with Langchain for easy agentic workflows. More frameworks coming soon!
 - Support for various on-chain actions:
